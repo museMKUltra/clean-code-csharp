@@ -1,0 +1,17 @@
+/Users/roller/RiderProjects/CleanCode/CleanCode/bin/Debug/CleanCode.dll
+/Users/roller/RiderProjects/CleanCode/CleanCode/bin/Debug/CleanCode.pdb
+/Users/roller/RiderProjects/CleanCode/CleanCode/bin/Debug/nunit.framework.dll
+/Users/roller/RiderProjects/CleanCode/CleanCode/bin/Debug/nunit.framework.xml
+/Users/roller/RiderProjects/CleanCode/CleanCode/obj/Debug/CleanCode.csprojAssemblyReference.cache
+/Users/roller/RiderProjects/CleanCode/CleanCode/obj/Debug/CleanCode.csproj.CoreCompileInputs.cache
+/Users/roller/RiderProjects/CleanCode/CleanCode/obj/Debug/CleanCode.csproj.CopyComplete
+/Users/roller/RiderProjects/CleanCode/CleanCode/obj/Debug/CleanCode.dll
+/Users/roller/RiderProjects/CleanCode/CleanCode/obj/Debug/CleanCode.pdb
+/Users/roller/RiderProjects/CleanCode/CleanCode/bin/Debug/Castle.Core.dll
+/Users/roller/RiderProjects/CleanCode/CleanCode/bin/Debug/Moq.dll
+/Users/roller/RiderProjects/CleanCode/CleanCode/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/roller/RiderProjects/CleanCode/CleanCode/bin/Debug/System.Threading.Tasks.Extensions.dll
+/Users/roller/RiderProjects/CleanCode/CleanCode/bin/Debug/Castle.Core.xml
+/Users/roller/RiderProjects/CleanCode/CleanCode/bin/Debug/Moq.xml
+/Users/roller/RiderProjects/CleanCode/CleanCode/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+/Users/roller/RiderProjects/CleanCode/CleanCode/bin/Debug/System.Threading.Tasks.Extensions.xml
